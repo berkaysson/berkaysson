@@ -45,7 +45,7 @@
         height="48"
         alt="react"
       />
-    <br /><strong>REACT</strong>
+    <br /><strong>React</strong>
     </td>
     <td align="center" height="108" width="155">
       <img
@@ -54,7 +54,7 @@
         height="48"
         alt="react-ROUTER"
       />
-    <br /><strong>REACT ROUTER</strong>
+    <br /><strong>React Router</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
