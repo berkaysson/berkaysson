@@ -1,16 +1,90 @@
 <h1 align="center">Hi 👋, I'm Berkay Sonel</h1>
 <h3 align="center">Passionate self-taught Frontend Developer</h3>
 
-- 🌱 I’m currently learning **depths of React.js**
+<div align="center">
+  
+ -🌱 I’m currently learning **depths of React.js**
+ <br/>
+  -📫 How to reach me **berkaysonel85@gmail.com**
+</div>
 
-- 📫 How to reach me **berkaysonel85@gmail.com**
+# 🔧 Languages and Tools:
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"
+        width="auto"
+        height="48"
+        alt="JavaScript"
+      />
+      <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"
+        width="auto"
+        height="48"
+        alt="HTML5"
+      />
+      <br /><strong>HTML</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png"
+        width="auto"
+        height="48"
+        alt="CSS"
+      />
+      <br /><strong>CSS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"
+        width="auto"
+        height="48"
+        alt="react"
+      />
+    <br /><strong>REACT</strong>
+    </td>
+    <td align="center" height="108" width="155">
+      <img
+        src="https://seeklogo.com/images/R/reactrouter-logo-4572B114B5-seeklogo.com.png"
+        width="auto"
+        height="48"
+        alt="react-ROUTER"
+      />
+    <br /><strong>REACT ROUTER</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        width="auto"
+        height="48"
+        alt="Material UI"
+      />
+      <br /><strong>Material UI</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://seeklogo.com/images/N/npm-node-package-manager-logo-DE93649ED1-seeklogo.com.png"
+        width="auto"
+        height="48"
+        alt="npm"
+      />
+      <br /><strong>npm</strong>
+    </td>
+    <td align="center" height="108" width="auto">
+      <img
+        src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg"
+        width="auto"
+        height="48"
+        alt="styled"
+      />
+      <br /><strong>styled-components</strong>
+    </td>
+</table>
 
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkaysson&show_icons=true&locale=en&layout=compact" alt="berkaysson" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkaysson&show_icons=true&locale=en&layout=compact" alt="berkaysson" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkaysson&theme=highcontrast" alt="berkaysson" /></p>
