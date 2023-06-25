@@ -3,7 +3,7 @@
 
 <div align="left">
   
-🌱 I’m currently learning **depths of React.js**
+🌱 I’m currently learning **depths of React.js** and **Firebase**
  <br/>
 📫 How to reach me **berkaysonel85@gmail.com**
 </div>
