@@ -92,6 +92,7 @@
       />
       <br /><strong>Firebase</strong>
     </td>
+</tr>
 </table>
 <br/>
 <br/>
