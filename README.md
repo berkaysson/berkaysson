@@ -38,6 +38,8 @@
       />
       <br /><strong>CSS</strong>
     </td>
+</tr>
+<tr>
     <td align="center" height="108" width="108">
       <img
         src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"
@@ -56,8 +58,6 @@
       />
     <br /><strong>React Router</strong>
     </td>
-</tr>
-<tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
@@ -67,6 +67,9 @@
       />
       <br /><strong>Material UI</strong>
     </td>
+
+</tr>
+<tr>
     <td align="center" height="108" width="108">
       <img
         src="https://seeklogo.com/images/N/npm-node-package-manager-logo-DE93649ED1-seeklogo.com.png"
