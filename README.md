@@ -83,6 +83,15 @@
       />
       <br /><strong>styled-components</strong>
     </td>
+    <td align="center" height="108" width="auto">
+      <img
+        src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png"
+        width="auto"
+        height="48"
+        alt="styled"
+      />
+      <br /><strong>Firebase</strong>
+    </td>
 </table>
 <br/>
 <br/>
