@@ -1,14 +1,14 @@
-<h1 align="left">Hi 👋, I'm Berkay Sonel</h1>
-<h3 align="left">Passionate self-taught Frontend Developer</h3>
+<h1 align="center">Hi 👋, I'm Berkay Sonel</h1>
+<h3 align="center">Passionate self-taught Frontend Developer</h3>
 
-<div align="left">
+<div align="center">
   
 🌱 I’m currently learning **depths of React.js** and **Firebase**
  <br/>
 📫 How to reach me **berkaysonel85@gmail.com**
 </div>
-
-# 🔧 Languages and Tools:
+<div align="center">
+<h1>🔧 Languages and Tools:</h1> 
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -104,3 +104,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkaysson&show_icons=true&locale=en&layout=compact" alt="berkaysson" /></p>
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkaysson&theme=highcontrast" alt="berkaysson" /></p>
+</div>
