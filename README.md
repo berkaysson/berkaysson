@@ -76,14 +76,14 @@
       />
       <br /><strong>npm</strong>
     </td>
-    <td align="center" height="108" width="auto">
+      <td align="center" height="108" width="auto">
       <img
-        src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg"
+        src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg"
         width="auto"
         height="48"
         alt="styled"
       />
-      <br /><strong>styled-components</strong>
+      <br /><strong>GIT</strong>
     </td>
     <td align="center" height="108" width="auto">
       <img
@@ -94,15 +94,14 @@
       />
       <br /><strong>Firebase</strong>
     </td>
-
-  <td align="center" height="108" width="auto">
+    <td align="center" height="108" width="auto">
       <img
-        src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg"
+        src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg"
         width="auto"
         height="48"
         alt="styled"
       />
-      <br /><strong>GIT</strong>
+      <br /><strong>styled-components</strong>
     </td>
   </tr>
 </table>
