@@ -38,8 +38,6 @@
       />
       <br /><strong>CSS</strong>
     </td>
-</tr>
-<tr>
     <td align="center" height="108" width="108">
       <img
         src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"
@@ -58,6 +56,8 @@
       />
     <br /><strong>React Router</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
@@ -67,9 +67,6 @@
       />
       <br /><strong>Material UI</strong>
     </td>
-
-</tr>
-<tr>
     <td align="center" height="108" width="108">
       <img
         src="https://seeklogo.com/images/N/npm-node-package-manager-logo-DE93649ED1-seeklogo.com.png"
@@ -97,7 +94,17 @@
       />
       <br /><strong>Firebase</strong>
     </td>
-</tr>
+
+  <td align="center" height="108" width="auto">
+      <img
+        src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg"
+        width="auto"
+        height="48"
+        alt="styled"
+      />
+      <br /><strong>GIT</strong>
+    </td>
+  </tr>
 </table>
 <br/>
 <br/>
