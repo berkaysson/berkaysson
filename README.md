@@ -83,7 +83,7 @@
         height="48"
         alt="styled"
       />
-      <br /><strong>GIT</strong>
+      <br /><strong>git</strong>
     </td>
     <td align="center" height="108" width="auto">
       <img
