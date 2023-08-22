@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkay Sonel</h1>
-<h3 align="center">Passionate self-taught Frontend Developer</h3>
+<h3 align="center">Passionate Frontend Developer</h3>
 
 <div align="center">
   
