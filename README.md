@@ -48,8 +48,8 @@
     <br /><strong>React</strong>
     </td>
     
-  </tr>
-  <tr>
+  
+  
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
@@ -59,6 +59,8 @@
       />
       <br /><strong>Material UI</strong>
     </td>
+    </tr>
+    <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://seeklogo.com/images/N/npm-node-package-manager-logo-DE93649ED1-seeklogo.com.png"
