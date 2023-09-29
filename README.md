@@ -47,9 +47,8 @@
       />
     <br /><strong>React</strong>
     </td>
-    
-  
-  
+  <tr>
+  </tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
@@ -59,8 +58,6 @@
       />
       <br /><strong>Material UI</strong>
     </td>
-    </tr>
-    <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://seeklogo.com/images/N/npm-node-package-manager-logo-DE93649ED1-seeklogo.com.png"
@@ -78,15 +75,6 @@
         alt="styled"
       />
       <br /><strong>git</strong>
-    </td>
-    <td align="center" height="108" width="auto">
-      <img
-        src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png"
-        width="auto"
-        height="48"
-        alt="styled"
-      />
-      <br /><strong>Firebase</strong>
     </td>
     <td align="center" height="108" width="auto">
       <img
