@@ -47,15 +47,7 @@
       />
     <br /><strong>React</strong>
     </td>
-    <td align="center" height="108" width="155">
-      <img
-        src="https://seeklogo.com/images/R/reactrouter-logo-4572B114B5-seeklogo.com.png"
-        width="auto"
-        height="48"
-        alt="react-ROUTER"
-      />
-    <br /><strong>React Router</strong>
-    </td>
+    
   </tr>
   <tr>
     <td align="center" height="108" width="108">
