@@ -6,7 +6,7 @@
 🌱 I’m currently learning **depths of React.js**, **Asp.NET** and **Azure**
  <br/>
 📫 How to reach me **berkaysonel85@gmail.com**<br/>
-For details you can visit [my portfolio page](https://www.berkaysonel.com)
+🤙For details you can visit [my portfolio page](https://www.berkaysonel.com)
 
 </div>
 <div align="center">
