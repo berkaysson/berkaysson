@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Berkay Sonel</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 <div align="center">
   
 🌱 I’m currently learning **depths of React.js**, **Asp.NET** and **Azure**
  <br/>
 📫 How to reach me **berkaysonel85@gmail.com**<br/>
-🤙For details you can visit [my portfolio page](https://www.berkaysonel.com)
+🤙For details you can visit [my portfolio page](https://berkaysonel.com)
 
 </div>
 <div align="center">
